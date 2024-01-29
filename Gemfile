@@ -68,3 +68,10 @@ end
 
 gem "rake"
 
+gem "sass"
+
+gem "haml"
+
+gem "haml-rails"
+
+gem "html2haml"
